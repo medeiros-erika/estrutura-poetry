@@ -11,9 +11,19 @@ Alguns comandos básicos:
 
 - Criar a virtualenv
 
-     o comando 'python3 -m venv venv' pode ser substituído por 'poetry shell'
+     o comando abaixo:
      
-- Criar a virtualenv dentro do projeto/pasta: 'poetry config virtualenvs.in-project true'
+     'python3 -m venv venv' 
+     
+     pode ser substituído por:
+     
+     'poetry shell'
 
-- Adicionar/instalar bibliotecas e dependências no projeto: 'poetry add <pandas>'
+- Criar a virtualenv dentro do projeto/pasta: 
+  
+  'poetry config virtualenvs.in-project true'
+
+- Adicionar/instalar bibliotecas e dependências no projeto:
+    
+     'poetry add <pandas>'
 
