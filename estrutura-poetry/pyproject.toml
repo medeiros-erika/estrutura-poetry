@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "estrutura-poetry"
+name = "projeto-python"
 version = "0.1.0"
 description = ""
 authors = ["medeiros-erika <ems.erikamedeiros@gmail.com>"]
