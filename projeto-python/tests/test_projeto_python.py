@@ -1,4 +1,4 @@
-from estrutura_poetry import __version__
+from projeto_python import __version__
 
 
 def test_version():
